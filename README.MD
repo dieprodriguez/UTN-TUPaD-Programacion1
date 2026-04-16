@@ -1,10 +1,10 @@
 # 💻 Programación 1  
-**Tecnicatura Universitaria en Programación**  
+**Tecnicatura Universitaria en Programación a Distancia**  
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Bruselario, Sebastián *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-7 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Rodriguez, Diego Pablo José  
+- **Comisión:** M26-C1-01  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
@@ -13,8 +13,4 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 - Cada trabajo está organizado en carpetas individuales.  
 - Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
 - Se busca mantener un código limpio, ordenado y bien documentado.  
-
-> ⚠️ **Nota:** Este README y los nombres de los archivos de los trabajos prácticos deben ser actualizados con tus datos personales.
-> 
-> ¡Recuerda mantener actualizado tu repositorio!
 
